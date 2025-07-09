@@ -1,3 +1,14 @@
+##📁 Folder Structure##
+
+```fake-news-detector/
+├── fake_news_detector.ipynb     ✅ Main Jupyter notebook
+├── data/
+│   └── README.md                ✅ Where to download data
+├── requirements.txt             ✅ Python packages
+├── .gitignore                   ✅ Ignore CSV/data files
+└── README.md                    ✅ Full project doc
+```
+
 # 📰 Fake News Detector
 
 A beginner-friendly machine learning project that detects fake news articles using text classification with TF-IDF and Logistic Regression.
